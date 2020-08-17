@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+ <img width="100%" src="https://media.giphy.com/media/SZUnyVdIDAEQU/giphy.gif" />
+</p>
 
 <!--
 **rodrigoma/rodrigoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
